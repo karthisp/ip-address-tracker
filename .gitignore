@@ -47,3 +47,8 @@ Thumbs.db
 tsconfig.app.json
 tsconfig.json
 tsconfig.spec.json
+
+# frontend mentors assets
+README-template.md
+style-guide.md
+design
